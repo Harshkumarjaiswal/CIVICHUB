@@ -31,10 +31,10 @@ if ($msg != "") {
 			Be The Change
 		</div>
 		<nav class="flex-nav1">
-			<a href="index.php">Home</a>
-			<a href="About.php">About</a>
+			<a href="index.html">Home</a>
+			<a href="About.html">About</a>
 			<a href="form.php" class="active">Raise A Complaint</a>
-			<a href="contact.php">Contact</a>
+			<a href="contact.html">Contact</a>
 		</nav>
 	</header>
 
